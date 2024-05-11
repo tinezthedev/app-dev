@@ -4,6 +4,33 @@ Shokugeki no Soma / Food Wars is currently serialized in Weekly Shōnen Jump!, a
 
 ![image](https://github.com/tinezthedev/app-dev/assets/127572614/14104a4f-8886-4267-9497-722b3beb8c37)
 
+## Characters | Tōtsuki Culinary Academy Students
+### 92nd Tōtsuki Generation
+- Sōma Yukihira
+- Erina Nakiri
+- Hisako Arato
+- Megumi Tadokoro
+- Ryōko Sakaki
+- Yūki Yoshino
+- Zenji Marui
+- Shun Ibusaki
+- Daigo Aoki
+- Shōji Satō
+- Ikumi Mito
+- Urara Kawashima
+- Takumi Aldini
+- Isami Aldini
+- Alice Nakiri
+- Ryō Kurokiba
+- Miyoko Hōjō
+- Nao Sadatsuka
+- Akira Hayama
+- Subaru Mimasaka
+- Yua Sasaki
+- Madoka Enomoto
+- Takumi Ishiwatari
+
+
 ## Plot
 Soma Yukihira aspires to become a better chef than his father, Saiba Joichiro, and take over their family restaurant, "Restaurant Yukihira". However, Joichiro got a part-time job overseas and sent Soma to Tōtsuki Culinary Academy, an elite culinary school where students engage in cooking competitions called shokugeki. Soma secures himself a spot at the school, despite the objections of Erina Nakiri also known as someone who has the "God's Tongue", the talented granddaughter of the school's dean. Soma is assigned to Polaris Dormitory where he meets other aspiring chefs, including Megumi Tadokoro. The story follows his adventures as he interacts with his peers and challenges Tōtsuki's students as well as others in shokugeki competitions. Learning that his father was not only a student of Tōtsuki, but also the second seat in the Council of Ten, Soma plans on becoming the best at the academy.
 
