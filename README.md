@@ -11,4 +11,5 @@ Soma and the other first-year students participate in a cooking camp judged by t
 
 # REFERENCES
 [Food Wars/Shokugeki no Soma](https://shokugekinosoma.fandom.com/wiki/Shokugeki_no_Soma_Wiki)
+
 [Food Wars!: Shokugeki no Soma](https://www.wikiwand.com/en/Food_Wars!:_Shokugeki_no_Soma)
